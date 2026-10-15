@@ -39,5 +39,6 @@ Tôi tên là Trần Đức Tài , tôi sinh ra và lớn lên tại Thái Bình
 Get-Content log.txt
 ```
 ***
+[Link GitHub](https://github.com/TranDucTaiCNTT3/Nhap_Mon_CNTT-HN-KS26-CNTT3_Tran_Duc_Tai/blob/a6f62e548d1f480732fbe28aa56b3f066050b8cf/tuoiconngancon%20(1).md)
 
 
