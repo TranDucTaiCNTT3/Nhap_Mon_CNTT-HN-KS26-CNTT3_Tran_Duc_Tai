@@ -22,7 +22,8 @@ Tôi tên là Trần Đức Tài , tôi sinh ra và lớn lên tại Thái Bình
 	- Vận hành mô hình quản lý dòng tiên thu vào và đi ra  
 - Thích Xem võ và học võ :
 	- Thích xem UFC 
-	- Thích tập võ mỗi khi rảnh 
+	- Thích tập võ mỗi khi rảnh
+ 
 ### Mục Tiêu :
 1. Thành Nhà Sáng Tạo Nội Dung 
 2. Điều khiển được dòng tiền ra vào 
@@ -33,11 +34,13 @@ Tôi tên là Trần Đức Tài , tôi sinh ra và lớn lên tại Thái Bình
 |1|Nhập Môn CNTT|3|A|
 |2|Ngôn Ngữ C|4|A|
 |3|Basic Speaking|3|A|
+
 ***
 - [ ] Thành Thạo Được Một Ngôn Ngữ Lập Trình Mới 
 - [ ] Kiếm Được Một Chứng Chỉ Tiếng Anh 
 - [ ] Kiếm Được Vài Dự Án Nhỏ Để Thực Hành 
 - [ ] Luôn Đạt Chuyên Cần Trên 90%
+
 ***
 `Get-Content` là lệnh dùng để đọc toàn bộ nội dung trong file
 ```Powershell
