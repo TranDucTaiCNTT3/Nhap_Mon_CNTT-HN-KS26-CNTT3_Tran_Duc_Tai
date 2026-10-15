@@ -4,9 +4,12 @@
 ![Đến đích](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXItRESg3txrRSqkmP1IF55t4vCSE3j8AfOTLJLH1RQ&s)
 
 Tôi tên là Trần Đức Tài , tôi sinh ra và lớn lên tại Thái Bình . Tôi năm nay 18 tuổi , tôi đang học tại : 
+
 **Trường Học Viện Công Nghệ Bưu Chính Viễn Thông**
 **Chuyên Ngành : CNTT**
+
 *Sở Thích : Học võ , Tìm Hiểu Thứ Mới*
+
 ~~Thói quen muốn bỏ : Quá Lười và phụ thuộc vào AI~~
 ***
 ## Sở Thích :
