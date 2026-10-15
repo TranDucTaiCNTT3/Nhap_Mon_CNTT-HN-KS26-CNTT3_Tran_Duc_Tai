@@ -1,6 +1,8 @@
 ﻿# Trần Đức Tài 
 *Tôi không thể thay đổi hướng gió, nhưng tôi có thể điều chỉnh cánh buồm của mình để luôn đi đến đích*
+
 ![Đến đích](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXItRESg3txrRSqkmP1IF55t4vCSE3j8AfOTLJLH1RQ&s)
+
 Tôi tên là Trần Đức Tài , tôi sinh ra và lớn lên tại Thái Bình . Tôi năm nay 18 tuổi , tôi đang học tại : 
 **Trường Học Viện Công Nghệ Bưu Chính Viễn Thông**
 **Chuyên Ngành : CNTT**
