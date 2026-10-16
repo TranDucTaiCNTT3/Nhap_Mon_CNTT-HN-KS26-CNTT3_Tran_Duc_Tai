@@ -1,15 +1,10 @@
 ﻿# Giới Thiệu Bản Thân :
  
 Tôi tên là **Trần Đức Tài** tôi đến từ Thái Bình , tôi năm nay 18 tuổi . Tôi là sinh viên năm nhất của *Trường Học Viện Công Nghệ Bưu Chính Viễn Thông*(**PTIT**).
-
 Tôi Sinh ngày : 20/9/2008 
-
 Tôi có một niềm đam mê mãnh liệt với bóng đá , Idol của tôi là Messi (**GOAT**)
-
 Tôi muốn từ bỏ thói quen ~~Lười Biếng~~ sau khi theo dõi hành trình của Messi , Một **hành trình đầy kiên trì và nỗ lực** 
-
 ![Ảnh Messi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXItRESg3txrRSqkmP1IF55t4vCSE3j8AfOTLJLH1RQ&s)
-
 **Đây là khoảnh khắc Idol của tôi bước lên đỉnh vinh quang của thế giới bóng đá** 
 
 **Câu Châm Ngôn Của Messi Mà Tôi Rất Thích** :
