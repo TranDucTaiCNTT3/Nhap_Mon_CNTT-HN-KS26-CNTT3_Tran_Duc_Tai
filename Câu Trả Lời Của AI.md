@@ -21,6 +21,7 @@
 -   Quyết định có cần tưới nước hay không.
 ### 3. Output – Đầu ra
 ![Ảnh Ví Dụ ](https://images.openai.com/static-rsc-4/339ECfJ7t5vNDBVF_e4_MtGlg3RHnmgW7i3Iii6aA-6bAP-ta6XLVJcz4B_-xQ-B6a1SgjEzJHqS2DtrC1SN9E1v1FccWiwNfIwd5YoEoHfLVaNngeaItqt1GBGl4RCQVYpXlhJl8DBtJ4rGXElhavTX1rCH1LSdrTx0nkVHzCM?purpose=inline)
+
 **Hệ thống đưa ra kết quả:**
 -   Bật máy bơm để tưới rau nếu đất khô.
     
