@@ -16,7 +16,7 @@
 ```shell
 # Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
 pwd
-ls 
+ls -Force
 mv .\lich_hoc.txt .\docs\
 mv .\logo_trung_tam.PNG .\media\ ; mv .\anh_lop_hoc.JPG .\media\
 cp .\media\logo_trung_tam.PNG .\archive\
