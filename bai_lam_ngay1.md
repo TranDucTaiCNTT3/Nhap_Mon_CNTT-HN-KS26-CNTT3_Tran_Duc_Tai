@@ -36,15 +36,15 @@ Get-ChildItem -Recurse -Force
 ```text
 Path
 ----
-C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh
+C:\LamBaiTap\starter-kit\trung-tam-tieng-anh
 
-Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh
+Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh
 ```
 
 ### Kết quả liệt kê toàn bộ dự án – B8 (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
 ```text
-Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh
+Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh
 
 
 Mode                 LastWriteTime         Length Name
@@ -58,7 +58,7 @@ d-----        10/20/2026  10:26 PM                media
 -a----        10/19/2026  10:04 AM            902 bai_lam_ngay1.md
 
 
-    Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh\archive
+    Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh\archive
 
 
 Mode                 LastWriteTime         Length Name
@@ -67,7 +67,7 @@ Mode                 LastWriteTime         Length Name
 -a----        10/19/2026  10:04 AM           5184 logo_trung_tam.PNG
 
 
-    Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh\data
+    Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh\data
 
 
 Mode                 LastWriteTime         Length Name
@@ -75,7 +75,7 @@ Mode                 LastWriteTime         Length Name
 -a----        10/19/2026  10:04 AM           5070 hoc_vien_khoa_3.xlsx
 
 
-    Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh\docs
+    Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh\docs
 
 
 Mode                 LastWriteTime         Length Name
@@ -83,7 +83,7 @@ Mode                 LastWriteTime         Length Name
 -a----        10/19/2026  10:04 AM             67 lich_hoc.txt
 
 
-    Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh\logs
+    Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh\logs
 
 
 Mode                 LastWriteTime         Length Name
@@ -91,7 +91,7 @@ Mode                 LastWriteTime         Length Name
 -a----        10/19/2026  10:04 AM           1072 access.log
 
 
-    Directory: C:\LamBaiTap\starter-kit\Trung Tam Tieng Anh\media
+    Directory: C:\LamBaiTap\starter-kit\trung-tam-tieng-anh\media
 
 
 Mode                 LastWriteTime         Length Name
